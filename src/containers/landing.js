@@ -4,9 +4,9 @@ import Banner from "../components/banner/banner.js";
 import JoinUs from "../components/joinUs/joinUs.js";
 import Sponsors from "../components/sponsors/sponsors.js"
 import community from "../img/community-msg.png";
-import landing1 from "../img/landing-1.png";
-import landing2 from "../img/landing-2.png";
-import landing3 from "../img/landing-3.png";
+import landing1 from "../img/Landing-1.png";
+import landing2 from "../img/Landing-2.png";
+import landing3 from "../img/Landing-3.png";
 import people from "../icons/people.svg";
 import bulb from "../icons/bulb.svg";
 import message from "../icons/message.svg";
